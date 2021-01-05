@@ -11,7 +11,7 @@
   "repository": "git@github.com:bponomarenko/license-checker.git",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "correct-license-metadata": "^1.4.0",
     "getopts": "^2.2.5",
     "ora": "^3.4.0",
